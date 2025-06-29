@@ -149,9 +149,8 @@ Pull requests and contributions are welcome. If you find bugs or want to add new
 <p><strong>Deva the Analyst</strong><br>
 Machine Learning & Data Science Enthusiast</p>
 <p>
-📧 Email: <a href="mailto:devasivanagasai@gmail.com">devasivanagasai@gmail.com</a><br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/deva-siva-naga-sai-boddu-841984228/" target="_blank">Deva the Analyst</a><br>
-💻 GitHub: <a href="https://github.com/Deva2078" target="_blank">Deva2078</a>
+<a href="mailto:devasivanagasai@gmail.com">📧 Email</a><br>
+<a href="https://www.linkedin.com/in/deva-siva-naga-sai-boddu-841984228/" target="_blank">🔗 LinkedIn</a> + <a href="https://github.com/Deva2078" target="_blank">💻 GitHub</a>
 </p>
 
 ```
