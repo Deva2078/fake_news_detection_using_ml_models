@@ -109,3 +109,51 @@ Each file contains the following columns:
 ```python
 news = str(input("Enter a news article text: "))
 manual_testing(news)
+```
+
+Predicts the result from all 4 models:
+✅ Not A Fake News
+❌ Fake News
+
+## 📌 How to Run This Project
+Clone the repository:
+```
+git clone https://github.com/your-username/fake-news-detector.git
+cd fake-news-detector
+```
+Install dependencies:
+```
+pip install -r requirements.txt
+```
+Run the notebook:
+```
+jupyter notebook fake_news_detector.ipynb
+```
+
+## ✅ Additional Features
+Custom text preprocessing function using regex
+
+Manual news input for real-time classification
+
+Supports model comparison through accuracy and classification report
+
+Can be extended using Deep Learning models like LSTM or BERT
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+Pull requests and contributions are welcome. If you find bugs or want to add new features, feel free to fork the repo and create a PR.
+
+## ✍️ Author
+<p><strong>Deva the Analyst</strong><br>
+Machine Learning & Data Science Enthusiast</p>
+<p>
+📧 Email: <a href="mailto:devasivanagasai@gmail.com">devasivanagasai@gmail.com</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/deva-siva-naga-sai-boddu-841984228/" target="_blank">Deva the Analyst</a><br>
+💻 GitHub: <a href="https://github.com/Deva2078" target="_blank">Deva2078</a>
+</p>
+
+```
+Let me know if you’d like me to create `requirements.txt`, `LICENSE`, `fake_news_detector.ipynb`, or deployment files as well.
+```
